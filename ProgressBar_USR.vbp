@@ -1,0 +1,50 @@
+Type=Control
+UserControl=ctl\NGBarraProgresso.ctl
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\WINDOWS\system32\stdole2.tlb#OLE Automation
+Class=clsSteps; cls\clsSteps.cls
+Class=Steps; cls\Steps.cls
+Object={07C545BF-B422-4962-B507-FC945AD668F3}#1.1#0; Button_USR.ocx
+Startup="(None)"
+HelpFile=""
+Title="ProgressBar_USR"
+ExeName32="ProgressBar_USR.ocx"
+Path32="..\..\..\..\..\"
+Command32=""
+Name="ProgressBar_USR"
+HelpContextID="0"
+Description="Progress Bar"
+CompatibleMode="2"
+CompatibleEXE32="\ProgressBar_USR.ocx"
+VersionCompatible32="1"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+DllBaseAddress=&H11900000
+VersionComments=""
+VersionCompanyName=""
+CompilationType=-1
+OptimizationType=1
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=0
+NoAliasing=-1
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=-1
+UnroundedFP=0
+StartMode=1
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+ThreadingModel=1
+DebugStartupOption=1
+DebugStartupComponent=ProgressBar
+
+[MS Transaction Server]
+AutoRefresh=1
+
+
+
